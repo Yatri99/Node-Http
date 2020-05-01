@@ -8,5 +8,13 @@
     "start": "node index"
   },
   "author": "Yatri Vadalia",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yatri99/Node-Http.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Yatri99/Node-Http/issues"
+  },
+  "homepage": "https://github.com/Yatri99/Node-Http#readme"
 }
